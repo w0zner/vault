@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b0c5b73d66cfe7",
+        "id": "d2bca4067190744b",
         "type": "tabs",
         "children": [
           {
-            "id": "7617e8eba8d828ff",
+            "id": "1b240df2e8397834",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prueba.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Prueba"
-            }
-          },
-          {
-            "id": "86fc987a12620ed9",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,14 +167,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86fc987a12620ed9",
+  "active": "1b240df2e8397834",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Bienvenido.md",
     "Prueba.md",
+    "conflict-files-obsidian-git.md",
     "Sin título.md",
     "Consulta.md",
     "Sin título.base",
-    "Bienvenido.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "Sin título 1.md",
