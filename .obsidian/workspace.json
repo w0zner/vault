@@ -11,14 +11,14 @@
             "id": "109384dd3a40f2d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Bienvenido.md",
+                "bFile": "Bienvenido.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
+              "icon": "diff",
+              "title": "Diff: Bienvenido"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bienvenido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Bienvenido"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -174,6 +173,7 @@
   },
   "active": "109384dd3a40f2d6",
   "lastOpenFiles": [
+    "Bienvenido.md",
     "Consulta.md",
     "Sin título.md",
     "Sin título.base",
@@ -187,7 +187,6 @@
     "Sin título 3.md",
     "Sin título 4.md",
     "Sin título 5.md",
-    "Bienvenido.md",
     "2025-10-22.md",
     "2024-11-14.md",
     "Control de estados.md",
