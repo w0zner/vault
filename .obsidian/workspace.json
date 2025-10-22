@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Prueba"
             }
+          },
+          {
+            "id": "86fc987a12620ed9",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +186,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7617e8eba8d828ff",
+  "active": "86fc987a12620ed9",
   "lastOpenFiles": [
-    "Consulta.md",
+    "conflict-files-obsidian-git.md",
     "Prueba.md",
+    "Sin título.md",
+    "Consulta.md",
     "Sin título.base",
     "Bienvenido.md",
     "Sin título 1.canvas",
