@@ -11,13 +11,14 @@
             "id": "dd640dcef67ae956",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Sin título.base",
-                "viewName": "Tabla"
+                "file": "Prueba.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Sin título"
+              "icon": "lucide-file",
+              "title": "Prueba"
             }
           }
         ]
@@ -163,15 +164,17 @@
   },
   "active": "dd640dcef67ae956",
   "lastOpenFiles": [
-    "Sin título.md",
+    "Bienvenido.md",
+    "Prueba.md",
+    "/Prueba.md",
     "Sin título.base",
+    "Sin título.md",
     "Sin título 5.md",
     "Sin título 4.md",
     "Sin título 3.md",
     "Sin título 1.md",
     "Sin título 1.canvas",
     "Sin título 1.base",
-    "Consulta.md",
-    "Bienvenido.md"
+    "Consulta.md"
   ]
 }
