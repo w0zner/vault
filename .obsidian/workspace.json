@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c673b57e202c96a3",
+        "id": "d6b0c5b73d66cfe7",
         "type": "tabs",
         "children": [
           {
-            "id": "109384dd3a40f2d6",
+            "id": "7617e8eba8d828ff",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Bienvenido.md",
-                "bFile": "Bienvenido.md",
-                "aRef": ""
+                "file": "Prueba.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Bienvenido"
+              "icon": "lucide-file",
+              "title": "Prueba"
             }
           }
         ]
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,12 +171,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "109384dd3a40f2d6",
+  "active": "7617e8eba8d828ff",
   "lastOpenFiles": [
-    "Bienvenido.md",
     "Consulta.md",
-    "Sin título.md",
+    "Prueba.md",
     "Sin título.base",
+    "Bienvenido.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "Sin título 1.md",
